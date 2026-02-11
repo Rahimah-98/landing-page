@@ -6,7 +6,7 @@ export default function HeroSection() {
   return (
     <>
       <HeroHeader />
-      <main className='overflow-hidden h-screen bg-gray-50'>
+      <main className='overflow-hidden h-screen bg-gray-50 mt-20 md:mt-10'>
         <div
           aria-hidden
           className='absolute inset-0 isolate hidden opacity-65 contain-strict lg:block'>

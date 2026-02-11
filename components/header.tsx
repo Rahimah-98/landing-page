@@ -80,7 +80,7 @@ export const HeroHeader = () => {
                 </ul>
               </div>
               <div className='flex w-full flex-col space-y-3 sm:flex-row sm:gap-3 sm:space-y-0 md:w-fit'>
-                <button className='lg:inline-flex text-white py-3 px-6 rounded hover:-translate-y-0.5 shadow-lg bg-amber-400 duration-200'>
+                <button className='lg:inline-flex text-white py-3 px-3 md:px-6 rounded hover:-translate-y-0.5 shadow-lg bg-amber-400 duration-200'>
                   <Link href='#'>
                     <span className='uppercase font-semibold '>Contact me</span>
                   </Link>
